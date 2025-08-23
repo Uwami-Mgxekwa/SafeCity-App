@@ -1,0 +1,10 @@
+{
+  "appId": "com.void.safecity",
+  "appName": "SafeCity",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
